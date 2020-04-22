@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/Tejp98/Keeper/public.git/static/js/main.40279a3c.chunk.js",
-    "main.js.map": "/Tejp98/Keeper/public.git/static/js/main.40279a3c.chunk.js.map",
-    "runtime-main.js": "/Tejp98/Keeper/public.git/static/js/runtime-main.52348673.js",
-    "runtime-main.js.map": "/Tejp98/Keeper/public.git/static/js/runtime-main.52348673.js.map",
-    "static/js/2.0a2e219e.chunk.js": "/Tejp98/Keeper/public.git/static/js/2.0a2e219e.chunk.js",
-    "static/js/2.0a2e219e.chunk.js.map": "/Tejp98/Keeper/public.git/static/js/2.0a2e219e.chunk.js.map",
-    "index.html": "/Tejp98/Keeper/public.git/index.html",
-    "precache-manifest.b8cdb4433a06d704195a4662e7dc15db.js": "/Tejp98/Keeper/public.git/precache-manifest.b8cdb4433a06d704195a4662e7dc15db.js",
-    "service-worker.js": "/Tejp98/Keeper/public.git/service-worker.js"
+    "main.js": "/Keeper/static/js/main.40279a3c.chunk.js",
+    "main.js.map": "/Keeper/static/js/main.40279a3c.chunk.js.map",
+    "runtime-main.js": "/Keeper/static/js/runtime-main.053ef3de.js",
+    "runtime-main.js.map": "/Keeper/static/js/runtime-main.053ef3de.js.map",
+    "static/js/2.0a2e219e.chunk.js": "/Keeper/static/js/2.0a2e219e.chunk.js",
+    "static/js/2.0a2e219e.chunk.js.map": "/Keeper/static/js/2.0a2e219e.chunk.js.map",
+    "index.html": "/Keeper/index.html",
+    "precache-manifest.5b8ef4460b404dc9a626c2ae6a22d0bb.js": "/Keeper/precache-manifest.5b8ef4460b404dc9a626c2ae6a22d0bb.js",
+    "service-worker.js": "/Keeper/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.52348673.js",
+    "static/js/runtime-main.053ef3de.js",
     "static/js/2.0a2e219e.chunk.js",
     "static/js/main.40279a3c.chunk.js"
   ]
